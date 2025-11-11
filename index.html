@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Booking.com Financijski Analizator</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        .prose h2 { margin-top: 1.5em; margin-bottom: 0.5em; font-size: 1.25rem; font-weight: 600; }
+        .prose h3 { margin-top: 1.25em; margin-bottom: 0.5em; font-size: 1.1rem; font-weight: 600; }
+        .prose ul { list-style-type: disc; margin-left: 1.5rem; }
+        .prose li { margin-bottom: 0.25em; }
+        .prose strong { font-weight: 600; }
+        .prose table { width: 100%; border-collapse: collapse; margin-top: 1em; margin-bottom: 1em; }
+        .prose th, .prose td { border: 1px solid #4a5568; padding: 0.5rem 0.75rem; text-align: left; }
+        .prose th { background-color: #2d3748; }
+    </style>
+<script type="importmap">
+{
+  "imports": {
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.29.0"
+  }
+}
+</script>
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100 antialiased">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+</body>
+</html>
