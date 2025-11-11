@@ -1,4 +1,3 @@
-
 import React, { useState, useCallback } from 'react';
 import { Reservation } from './types';
 import { extractDataFromFile, generateFinancialAnalysis } from './services/geminiService';
@@ -96,7 +95,7 @@ const App: React.FC = () => {
         <div className="min-h-screen container mx-auto p-4 sm:p-6 lg:p-8">
             <header className="text-center mb-8">
                 <h1 className="text-3xl sm:text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-teal-400">
-                    Booking.com Financijski Analizator
+                    Booking.com Financijski Analizator i Generator računa za goste
                 </h1>
                 <p className="mt-2 text-md sm:text-lg text-gray-400">
                     Pokreće Gemini API za analizu i optimizaciju vašeg poslovanja.

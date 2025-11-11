@@ -100,7 +100,7 @@ Kao glavni izlaz, prikaži detaljan financijski izvještaj u strukturiranom, či
     *   Fokusiraj se na sljedeće strategije:
         *   **Smanjenje Troškova Posredovanja:** Daj specifične savjete kako smanjiti troškove. Posebno se osvrni na **naknade za transakciju** - istraži i objasni postoje li alternativni načini plaćanja ili postavke na Booking.com koje mogu umanjiti ovaj trošak.
         *   **Povećanje Direktnih Rezervacija:** Predloži konkretne akcije za poticanje gostiju na direktnu rezervaciju pri sljedećem posjetu (npr. vizitke s popustom u sobi, prikupljanje email adresa za slanje ponuda, program vjernosti).
-        *   **Povećanje Duljine Boravka (LOS):** Navedi strategije za poticanje dužih boravaka (npr. popusti za duži boravak, tjedni paketi, posebne ponude za boravke od 5+ noći).
+        *   **Povećanje Duljine Boravka (LOS):** Detaljno objasni i navedi konkretne strategije za poticanje gostiju na duže boravke. Obavezno uključi primjere kao što su kreiranje **tjednih paketa s popustom** ili nuđenje **posebnih ponuda i pogodnosti za boravke duže od 5 noći**.
         *   **Korištenje Genius Programa:** Objasni prednosti i mane Booking.com Genius programa. Daj savjete kako ga pametno iskoristiti za ciljanje kvalitetnijih gostiju, povećanje vidljivosti i potencijalno povećanje prosječne dnevne cijene (ADR) unatoč popustima koje program nudi.
     *   Preporuke moraju biti praktične i lako primjenjive za malog iznajmljivača.
 `;
